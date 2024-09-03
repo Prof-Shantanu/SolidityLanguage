@@ -3,7 +3,7 @@ Codes in Solidity Language used for Smart Contract Designing for Blockchain
 
 Remix IDE is used for the implementation of these codes.
 
-After completing the code, Click on "Compile".
+After completing the code, save the file with ".sol" extension and Click on "Compile".
 
 If your code is error free, it'll show compilation report.
 
