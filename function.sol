@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.26;
 
-contract MyFirst{
+contract ContractPrac4{
     
     function add() public pure returns(uint8){
         uint8 num1 = 10;
