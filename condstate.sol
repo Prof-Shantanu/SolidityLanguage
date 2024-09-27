@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.24;
 
-contract ContractPrac5 {
+contract ContractCondition {
 
     function isEvenNumber(uint _number) public pure returns(bool) {
         if(_number % 2 == 0) {
