@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.26;
 
-contract ContractPrac7 {
+contract ContractArray {
     // Arrays
     uint[] public uintArray = [1,2,3];
     string[] public stringArray = ['apple', 'banana', 'carrot'];
