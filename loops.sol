@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.24;
 
-contract MyContract {
+contract ContractPrac6 {
     uint[] public numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
     function countEvenNumbers() public view returns (uint) {
