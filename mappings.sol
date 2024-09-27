@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.24;
 
-contract ContractPrac8 {
+contract Mappings {
     // Mappings
     mapping(uint => string) public names;
     mapping(uint => Book) public books;
